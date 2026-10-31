@@ -96,9 +96,9 @@ phishing-url-awareness/
 ├── tests/
 │   └── test_samples.md       # Official test plan, execution matrix, and notes
 │
-└── screenshots/
-    ├── sample_run.png        # Screenshot of interactive CLI session
-    └── test_results.png      # Screenshot of verified test executions
+└── screenshots/              # Reserved for authentic manual capture evidence
+    ├── sample_run.png        # (Pending manual capture) Interactive CLI session
+    └── test_results.png      # (Pending manual capture) Verified test table
 ```
 
 ---
@@ -209,8 +209,9 @@ The application was tested against the official test cases specified in **Sectio
 
 ### Screenshot References
 
-- **Interactive CLI Session**: See [`screenshots/sample_run.png`](screenshots/sample_run.png)
-- **Verified Test Suite Outputs**: See [`screenshots/test_results.png`](screenshots/test_results.png)
+*(To be added upon manual capture via Windows Snipping Tool)*
+- **Interactive CLI Session**: [`screenshots/sample_run.png`](screenshots/sample_run.png) *(Pending capture)*
+- **Verified Test Suite Outputs**: [`screenshots/test_results.png`](screenshots/test_results.png) *(Pending capture)*
 
 ---
 
